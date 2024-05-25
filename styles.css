@@ -1,0 +1,78 @@
+body {
+	background: black;
+}
+
+
+.post{
+    background: white;
+    width: 480px;
+	height: 550px;
+	margin: auto;
+}
+
+.fa-solid{
+    font-size: 30px;
+}
+
+.post-header{
+    display:flex;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 50px;
+    margin: 4px;
+}
+
+.post-header-first{
+    justify-content: flex-start;
+    display: flex;
+    font-size: 35px;
+    margin-left: 6px;
+    margin-top: 10px;
+}
+.post-header-second{
+    text-align:justify;
+    margin: auto;
+    justify-content: flex-start;
+    margin-left: 8px;
+    font-size:small;
+    margin-top: 10px;
+
+}
+.post-header-third{
+    justify-content: flex-start;
+    display: flex;
+    font-size: 35px;
+    margin-right: 6px;
+    margin-top: 10px;
+
+}
+
+i{
+    margin: auto;
+ }
+
+img{
+    border:100%;
+    width: 100%;
+}
+
+.fa-regular{
+    justify-content: flex-end;;
+}
+
+.fa-regular{
+    font-size: 22px;
+}
+
+p{
+    font-family: 'Instagram Sans', 'Roboto', 'San Francisco', sans-serif;
+    font-size: 0.4cm
+}
+
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-body{
+    margin: 2%;
+}
